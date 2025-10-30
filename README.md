@@ -1,1 +1,1 @@
-# zayne-industry-diagnosis-2
+# zayne-industry-diagnosis-app
